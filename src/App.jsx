@@ -8,7 +8,7 @@
 // import UseMemoHook from "./components/UseMemoHook"
 // import CustomHook from "./components/CustomHook"
 
-import HigherOrderCompoParent from "./components/HigherOrderCompoParent"
+// import HigherOrderCompoParent from "./components/HigherOrderCompoParent"
 
 // import PropsChildren from "./components/PropsChildren"
 
@@ -27,7 +27,7 @@ function App() {
     {/* <UseCallbackHook /> */}
     {/* <CustomHook /> */}
     {/* <PropsChildren />  */}
-    <HigherOrderCompoParent />
+    {/* <HigherOrderCompoParent /> */}
     
  
     </>
